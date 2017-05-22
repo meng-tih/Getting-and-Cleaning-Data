@@ -1,17 +1,9 @@
----
-title: "run_analysis"
-author: "Meng-tih LAM"
-date: "22 mai 2017"
-output: html_document
----
-
-
-
 # run_analysis
 
-##Variables
+## Variables
 
-The file shows the following meassurements for each subject and each activity:
+### The file shows the following meassurements for each subject and each activity:
+
 	Subject
 	Activities
 	MeanOfTimeBodyAccMeanX
@@ -82,7 +74,7 @@ The file shows the following meassurements for each subject and each activity:
 	MeanOfFrequencyBodyGyroJerkMagStd
   
     
-##Data
+## Data
 
     Subject who carried out the experiment:
         Integer
@@ -96,6 +88,6 @@ The file shows the following meassurements for each subject and each activity:
     Measurements:
         Float
 
-##Clean features
+## Clean features
 
     Remove and corrected residual words
