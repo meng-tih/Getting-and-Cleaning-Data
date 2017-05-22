@@ -2,7 +2,7 @@
 
 ## Variables
 
-### The file shows the following meassurements for each subject and each activity:
+### The file shows the following measurements for each subject and each activity:
 
 	Subject
 	Activities
